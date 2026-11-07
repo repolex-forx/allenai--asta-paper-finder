@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "asta-paper-finder",
+  "versions": [
+    {
+      "commit": "6eb513837c5049b2d264ee92b412705f327ecf44",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:11:18.354575+00:00"
+    }
+  ]
+}
